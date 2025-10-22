@@ -1,0 +1,45 @@
+[
+  {
+    "name": "__RequestVerificationToken_L1NpbXBsZXNOYWNpb25hbC9BcGxpY2Fjb2VzL0FUU1BPL3BnbWVpLmFwcA2",
+    "value": "ps9rol0TxhhRE7BqxP90rgJH5u6D8AzF0sF5D2NW5wFQfJ3bA70uK9IHVKZww5gXRbJyfak-GqB716f3TfINkUnDu5jkjD2FKudsX1Co-C01",
+    "domain": "www8.receita.fazenda.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 194,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "2d10655b54273eab6032108e134ef6fa9481786b95ce3f1b6f6d11a60d2df9f0",
+    "domain": ".www8.receita.fazenda.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 75,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "xgommy4mwcimnpyu0e14lztb",
+    "domain": "www8.receita.fazenda.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 41,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

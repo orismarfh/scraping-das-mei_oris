@@ -1,7 +1,12 @@
-# Dependency directories
-node_modules/
-
-# files
-.local.env
-.pdf
-bin/*.pdf
+# Certificados e segredos
+*.p12
+*.pfx
+certs/
+cert_db/
+secrets.env
+.env
+# Perfis locais
+chrome-profile/
+# Python
+.venv/
+__pycache__/
